@@ -1,0 +1,45 @@
+.container {
+    max-width: 500px;
+}
+
+.trashcan {
+    width: 15px;
+    float: right;
+}
+
+.checkmark {
+    width: 15px;
+    float: right;
+    margin-right: 10px;
+}
+
+.textBox {
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    border-bottom: 2px solid #575655;
+    font-size: large;
+    outline: none;
+    margin-bottom: 5px;
+}
+
+.task {
+    width: auto;
+    background-color: rgba(87, 86, 85, .05);
+    margin: 2px;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+
+.taskIncomplete {
+    margin-bottom: 20px;
+}
+
+.taskIncomplete h4 u {
+    color:#a8a8a8;
+}
+
+.taskComplete h4 u {
+    color:#a8a8a8;
+}
